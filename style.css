@@ -1,10 +1,7 @@
-.container{
-    text-decoration-color: blue;
-    text-align: center;
-}
-header{
-width: 100%;
-    margin top: 40px;
-    
-    
+body {
+    background-color: #e35b5b;
+    font-size: 16px;
+    line-height: 24px;
+    color: white;
+    font-family: Arial;
 }
