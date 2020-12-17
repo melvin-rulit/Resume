@@ -1,7 +1,11 @@
 body {
-    background-color: #e35b5b;
-    font-size: 16px;
+   font-size: 16px;
     line-height: 24px;
-    color: white;
+    /* color: white; */
     font-family: Arial;
+}
+
+/* Left section  */
+.avatar{
+border-radius: 120px;
 }
