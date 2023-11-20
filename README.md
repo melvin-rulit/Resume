@@ -1,24 +1,29 @@
-### About me
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+<div id="header" align="center">
+    <h1>Hi there, I'm  Yuri </h1>
+    <h3>Full Stack Developer</h3>
+</div>
 
-<p align='center'>
+I am a web development specialist with over 4 years of experience.
+My goal is to develop my professional skills while working in a development team and receiving decent wages.
+
+<!-- <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/romankh3/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
-</p>
+</p> -->
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
+   <a href="https://www.linkedin.com/skill-assessments/hub/quizzes/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+   </a>
+   <a href="https://t.me/melvin_rulit">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='marchenko1985g@outlook.com'>marchenko1985g@outlook.com</a>
 </p>
 
 
@@ -29,10 +34,15 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
+
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/>&nbsp; HTML 
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp; CSS  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20"/>&nbsp; Bootstarap  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width="20" height="20"/>&nbsp; Tailwindcss
+          
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="25" height="25"/>&nbsp; MySQL  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="mysql" width="20" height="20"/>&nbsp; PostgreSQL
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/>&nbsp; GitHub   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" height="20"/>&nbsp; GitLub        
+* 
+          
+*   
 *   GitHub/GitLab/Gerrit/Bitbucket
 
 ### My opensource projects
