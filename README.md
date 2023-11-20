@@ -50,13 +50,21 @@ My goal is to develop my professional skills while working in a development team
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" title="Composer" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="Php" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" title="Vuetify" width="40" height="40"/>&nbsp;
+##
 
+### My last projects
 
-### My projects
-
-| Register page | Home page |
+| CRM Leva | CRM RestHost |
 | ------------ | ------------- |
-|<img src="https://github.com/melvin-rulit/Resume/tree/master/images/byUa.png" width="450">|<img src="https://github.com/melvin-rulit/Test_job/blob/master/screenshot%20project/home_page.png" width="450"> |
+|<img src="https://github.com/melvin-rulit/Resume/blob/master/images/Leva.png" width="450">|<img src="https://github.com/melvin-rulit/Resume/blob/master/images/byUa.png" width="450"> |
+
+| Website Cowboy | CRM Fitonuachki  |
+| ------------ | ------------- |
+|<img src="https://github.com/melvin-rulit/Resume/blob/master/images/cowboy.png" width="450">|<img src="https://github.com/melvin-rulit/Resume/blob/master/images/fito.png" width="450"> |
+
+| Website Itglav | CRM Vanmax  |
+| ------------ | ------------- |
+|<img src="https://github.com/melvin-rulit/Resume/blob/master/images/itglav.png" width="450">|<img src="https://github.com/melvin-rulit/Resume/blob/master/images/vanmax.png" width="450"> |
 
 
 <div align="center" style="margin: 40px 0">
