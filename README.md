@@ -30,12 +30,12 @@ My goal is to develop my professional skills while working in a development team
 *   A large number of different bot telegrams have also been written in Python. Starting from simple advertising bots to online stores. I connect any written CRM system with a telegram bot.
 *   When writing a frontend, I use the convenient Vue.js library, as well as various additional libraries Inertia.js, Nuxt.js, vuex and other useful libraries.
 *   The main operating system that I have been using for a long time is Linux, so I know the server side very well.
-*   
-## The stack
-* ``` Experience with Laravel and PHP ( Knowledge and use SOLID, KISS, DRY )```
-
 
 ## Technical Stack and last projects
+``` I have been working on UNIX systems for a long time. I tried a lot of destribudins and stopped at ArchLinux ```
+``` Experience with Laravel and PHP ( Knowledge and use SOLID, KISS, DRY )```
+``` As a development environment use PHPStorm and VisualStudioCode in a viscous with various plugins ```
+``` In my projects I use Xdebug ```
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>&nbsp; 
