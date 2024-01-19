@@ -33,14 +33,6 @@ My goal is to develop my professional skills while working in a development team
 
 ## Technical Stack and last projects
 
-``` I have been working on UNIX systems for a long time. I tried a lot of destribudins and stopped at ArchLinux ```
-
-``` Experience with Laravel and PHP ( Knowledge and use SOLID, KISS, DRY )```
-
-``` As a development environment use PHPStorm and VisualStudioCode in a viscous with various plugins ```
-
-``` In my projects I use Xdebug ```
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS&SCSS" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>&nbsp;
@@ -51,6 +43,15 @@ My goal is to develop my professional skills while working in a development team
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="Php" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" title="Vuetify" width="40" height="40"/>&nbsp;
 
+``` I have been working on UNIX systems for a long time. I tried a lot of destribudins and stopped at ArchLinux ```
+
+``` Experience with Laravel and PHP ( Knowledge and use SOLID, KISS, DRY )```
+
+``` As a development environment use PHPStorm and VisualStudioCode in a viscous with various plugins ```
+
+``` In my projects I use Xdebug ```
+
+##
 
 | CRM Leva | CRM RestHost |
 | ------------ | ------------- |
