@@ -31,7 +31,7 @@ My goal is to develop my professional skills while working in a development team
 *   When writing a frontend, I use the convenient Vue.js library, as well as various additional libraries Inertia.js, Nuxt.js, vuex and other useful libraries.
 *   The main operating system that I have been using for a long time is Linux, so I know the server side very well.
 
-## Technical Stack and last projects
+## Technical Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>&nbsp; 
@@ -51,7 +51,7 @@ My goal is to develop my professional skills while working in a development team
 
 ``` In my projects I use Xdebug ```
 
-##
+## Last projects
 
 | CRM Leva | CRM RestHost |
 | ------------ | ------------- |
