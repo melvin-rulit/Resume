@@ -30,7 +30,9 @@ My goal is to develop my professional skills while working in a development team
 *   A large number of different bot telegrams have also been written in Python. Starting from simple advertising bots to online stores. I connect any written CRM system with a telegram bot.
 *   When writing a frontend, I use the convenient Vue.js library, as well as various additional libraries Inertia.js, Nuxt.js, vuex and other useful libraries.
 *   The main operating system that I have been using for a long time is Linux, so I know the server side very well.
-
+*   
+## Ststack
+*   
 
 ## Technical Stack and last projects
 
@@ -57,6 +59,11 @@ My goal is to develop my professional skills while working in a development team
 | ------------ | ------------- |
 |<img src="https://github.com/melvin-rulit/Resume/blob/master/images/itglav.png" width="450">|<img src="https://github.com/melvin-rulit/Resume/blob/master/images/vanmax.png" width="450"> |
 
+|  CRM  SpeedFud | CRM Inspector |
+| ------------ | ------------- |
+|<img src="https://github.com/melvin-rulit/Resume/blob/master/images/fitoniachi.png" width="450">|<img src="https://github.com/melvin-rulit/Resume/blob/master/images/inspector.png" width="450"> |
+
+##
 ##
 
 <div align=center>
