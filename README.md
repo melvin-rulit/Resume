@@ -31,7 +31,8 @@ My goal is to develop my professional skills while working in a development team
 *   When writing a frontend, I use the convenient Vue.js library, as well as various additional libraries Inertia.js, Nuxt.js, vuex and other useful libraries.
 *   The main operating system that I have been using for a long time is Linux, so I know the server side very well.
 *   
-## The stack with which I use
+## The stack
+* ``` Experience with Laravel and PHP ( Knowledge and use SOLID, KISS, DRY )```
 
 
 ## Technical Stack and last projects
