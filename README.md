@@ -32,9 +32,13 @@ My goal is to develop my professional skills while working in a development team
 *   The main operating system that I have been using for a long time is Linux, so I know the server side very well.
 
 ## Technical Stack and last projects
+
 ``` I have been working on UNIX systems for a long time. I tried a lot of destribudins and stopped at ArchLinux ```
+
 ``` Experience with Laravel and PHP ( Knowledge and use SOLID, KISS, DRY )```
+
 ``` As a development environment use PHPStorm and VisualStudioCode in a viscous with various plugins ```
+
 ``` In my projects I use Xdebug ```
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
